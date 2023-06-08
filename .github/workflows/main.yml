@@ -1,6 +1,6 @@
 name: Build
 on:
-  push:
+  push:   
     branches:
       - main # the name of your main branch
   pull_request:
